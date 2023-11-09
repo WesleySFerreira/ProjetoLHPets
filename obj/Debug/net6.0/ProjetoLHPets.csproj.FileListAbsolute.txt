@@ -1,0 +1,6 @@
+C:\Users\Wesley\Documents\Curso programação\ProjetoLHPets\obj\Debug\net6.0\ProjetoLHPets.csproj.AssemblyReference.cache
+C:\Users\Wesley\Documents\Curso programação\ProjetoLHPets\obj\Debug\net6.0\ProjetoLHPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Documents\Curso programação\ProjetoLHPets\obj\Debug\net6.0\ProjetoLHPets.AssemblyInfoInputs.cache
+C:\Users\Wesley\Documents\Curso programação\ProjetoLHPets\obj\Debug\net6.0\ProjetoLHPets.AssemblyInfo.cs
+C:\Users\Wesley\Documents\Curso programação\ProjetoLHPets\obj\Debug\net6.0\ProjetoLHPets.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Curso programação\ProjetoLHPets\obj\Debug\net6.0\ProjetoLHPets.MvcApplicationPartsAssemblyInfo.cache

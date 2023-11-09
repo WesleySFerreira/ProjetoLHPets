@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "0ggwp9Di0aUuNmDOmg7h8asS80OLmZTG376iAR9pIBQ=",
+  "Source": "ProjetoLHPets",
+  "BasePath": "_content/ProjetoLHPets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoLHPets\\wwwroot",
+      "Source": "ProjetoLHPets",
+      "ContentRoot": "C:\\Users\\Wesley\\Documents\\Curso programação\\ProjetoLHPets\\wwwroot\\",
+      "BasePath": "_content/ProjetoLHPets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Wesley\\Documents\\Curso programação\\ProjetoLHPets\\wwwroot\\index.html",
+      "SourceId": "ProjetoLHPets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Wesley\\Documents\\Curso programação\\ProjetoLHPets\\wwwroot\\",
+      "BasePath": "_content/ProjetoLHPets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
